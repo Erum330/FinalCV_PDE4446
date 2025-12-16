@@ -130,6 +130,8 @@ else:
 
 This prevents the system from being distracted by distant noise or overly large objects that might obscure the camera when they are too close.
 
-**GitHub Repository: https://github.com/Erum330/Realtime_Pan_and_Tilt-Object-Tracking.git **
-**Youtube Link: https://youtu.be/4pnOp_KU1B4 **
+**GitHub Repository:** https://github.com/Erum330/Realtime_Pan_and_Tilt-Object-Tracking.git 
+
+**Youtube Link:** https://youtu.be/4pnOp_KU1B4 
+
 
