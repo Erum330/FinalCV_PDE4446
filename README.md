@@ -20,7 +20,7 @@ Key Features
 
 -   **Quick Home Return:** Immediately resets the Kalman state and smoothly returns the camera to the center position if the target is lost for a small number of frames (`LOST_REQUIRED`).
 
-🛠️ Setup and Installation
+Setup and Installation
 --------------------------
 
 ### Prerequisites
@@ -133,6 +133,7 @@ This prevents the system from being distracted by distant noise or overly large 
 **GitHub Repository:** https://github.com/Erum330/Realtime_Pan_and_Tilt-Object-Tracking.git 
 
 **Youtube Link:** https://youtu.be/4pnOp_KU1B4 
+
 
 
 
